@@ -58,14 +58,3 @@ Este projeto automatiza o processo comercial de prospecção usando um agente de
 
 ---
 
-## Considerações para o GitHub
-
-- Documentação feita em Markdown limpa, clara e objetiva para fácil visualização.
-- Atenção especial ao destaque da integração diferenciada com IA de voz ElevenLabs para efeito comercial.
-- Conteúdo voltado para desenvolvedores e equipes comerciais que irão gerir e otimizar o fluxo.
-- Modularidade para facilitar manutenção, customização e escalabilidade futuras.
-
----
-
-> Esta documentação está preparada para ser usada diretamente em seu repositório GitHub, equilibrando clareza técnica e foco comercial com ênfase na poderosa integração de IA para automação comercial.
-
